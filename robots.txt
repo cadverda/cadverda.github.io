@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cadverda.github.io/sitemap.html.gz
+Sitemap: https://cadverda.github.io/app/sitemap.html.gz
+Sitemap: https://cadverda.github.io/assets/sitemap.html.gz
+Sitemap: https://cadverda.github.io/css/sitemap.html.gz
+Sitemap: https://cadverda.github.io/includes/sitemap.html.gz
+Sitemap: https://cadverda.github.io/item/sitemap.html.gz
+Sitemap: https://cadverda.github.io/src/sitemap.html.gz
